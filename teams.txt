@@ -1,0 +1,570 @@
+Oakland Athletics
+Derek Norris
+2 79 209 30 46 10 0 8 25 80 32 57 3 2 2
+Brandon Moss
+3 103 320 48 78 10 3 17 51 145 33 99 3 4 2
+Eric Sogard
+4 90 255 37 71 19 2 2 22 100 19 35 7 5 1
+Jed Lowrie
+5 107 416 49 120 29 0 8 44 173 41 62 1 2 2
+Josh Donaldson
+6 111 408 56 120 24 1 17 63 197 51 83 2 3 5
+Yoenis Cespedes
+7 93 359 51 81 14 3 17 52 152 33 94 6 4 3
+Coco Crisp
+8 91 360 56 89 16 2 10 39 139 45 46 16 0 5
+Josh Reddick
+9 82 276 34 56 15 2 5 37 90 33 61 8 1 4
+Tommy Milone
+25 22 8 2 2 0 0 0 1 2 0 1 0 0 0
+San Francisco Giants
+Buster Posey
+2 108 383 44 118 30 1 14 61 192 39 50 1 7 5
+Brandon Belt
+3 105 335 48 89 23 2 11 41 149 38 90 5 4 2
+Marco Scutaro
+4 97 377 43 114 18 2 2 22 142 35 28 1 1 2
+Brandon Crawford
+5 106 362 41 99 19 3 7 36 145 31 67 1 4 3
+Pablo Sandoval
+6 95 368 36 96 18 0 9 52 141 25 57 0 4 6
+Andres Torres
+7 92 252 31 62 17 1 2 20 87 21 61 4 0 4
+Angel Pagan
+8 46 187 30 49 10 1 3 24 70 15 25 6 0 2
+Hunter Pence
+9 113 444 59 122 27 4 14 51 199 29 75 17 2 2
+Madison Bumgarner
+1 23 40 3 5 0 0 0 4 5 4 21 0 0 1
+Baltimore Orioles
+Matt Wieters
+2 105 372 42 87 22 0 15 53 154 34 73 2 0 6
+Chris Davis
+3 113 411 80 124 31 0 41 106 278 44 137 0 8 6
+Ryan Flaherty
+4 65 192 20 42 7 0 7 18 70 12 46 2 3 0
+J.J. Hardy
+5 113 425 44 108 17 0 19 63 182 26 55 1 0 2
+Manny Machado
+6 114 485 67 144 40 3 10 54 220 21 81 6 1 0
+Nate McLouth
+7 102 380 61 108 23 4 7 23 160 37 57 27 3 1
+Adam Jones
+8 114 468 79 141 28 1 23 79 240 15 90 10 5 1
+Nick Markakis
+9 112 451 64 127 19 0 8 45 170 38 50 0 2 6
+Jason Hammel
+1 21 3 0 0 0 0 0 0 0 0 2 0 0 0
+Pittsburgh Pirates
+Russell Martin
+2 89 310 41 77 17 0 10 41 124 41 71 9 8 0
+Garrett Jones
+3 105 316 30 79 22 1 10 40 133 23 79 2 2 4
+Neil Walker
+4 87 302 40 76 18 3 7 31 121 34 58 1 13 1
+Clint Barmes
+5 77 225 13 50 12 0 2 14 68 11 55 0 2 0
+Pedro Alvarez
+6 104 377 48 90 11 1 27 73 184 33 134 1 1 3
+Starling Marte
+7 108 444 73 122 23 9 10 30 193 20 115 32 18 1
+Andrew McCutchen
+8 110 417 71 130 31 2 16 65 213 46 70 24 5 3
+Travis Snider
+9 95 242 26 53 12 2 3 23 78 23 71 2 0 0
+A.J. Burnett
+1 20 40 0 3 0 0 0 1 3 0 24 0 0 0
+Kansas City Royals
+Salvador Perez
+2 92 335 31 93 19 2 4 43 128 13 44 0 3 2
+Eric Hosmer
+3 109 424 58 126 22 2 12 53 188 30 65 9 1 4
+Chris Getz
+4 53 153 20 32 6 1 1 14 43 15 19 8 0 0
+Alcides Escobar
+5 109 433 41 103 15 3 3 39 133 15 57 12 2 3
+Mike Moustakas
+6 98 340 31 78 17 0 10 28 125 25 52 1 4 3
+Alex Gordon
+7 107 427 59 113 17 5 11 57 173 40 98 6 6 5
+Lorenzo Cain
+8 95 341 49 88 18 2 4 43 122 31 75 12 4 6
+Jeff Francoeur
+9 59 183 19 38 8 2 3 13 59 8 49 2 2 0
+Ervin Santana
+1 22 4 0 1 0 0 0 0 1 0 2 0 0 0
+Miami Marlins
+Rob Brantly
+2 59 204 10 46 9 0 1 18 58 13 47 0 2 3
+Greg Dobbs
+3 85 209 20 48 8 0 2 19 62 18 34 1 4 2
+Derek Dietrich
+4 57 215 32 46 10 2 9 23 87 11 56 1 7 0
+Adeiny Hechavarria
+5 98 361 22 87 10 5 2 26 113 18 58 8 0 1
+Placido Polanco
+6 85 288 28 74 9 0 1 19 86 18 24 1 6 3
+Juan Pierre
+7 79 274 34 67 8 2 1 8 82 13 25 20 3 0
+Justin Ruggiano
+8 88 287 32 57 9 1 12 32 104 27 77 12 4 0
+Giancarlo Stanton
+9 70 258 35 63 16 0 13 34 118 45 78 1 2 1
+Jose Fernandez
+1 21 37 2 5 1 0 0 4 6 0 17 0 0 1
+Boston Red Sox
+Jarrod Saltalamacchia
+2 91 317 44 83 28 0 10 43 141 34 111 0 0 1
+Mike Napoli
+3 105 388 58 97 28 2 14 64 171 48 148 1 5 1
+Dustin Pedroia
+4 116 457 65 134 27 1 8 68 187 59 57 14 3 5
+Stephen Drew
+5 84 293 38 74 16 6 9 45 129 40 86 3 1 3
+Will Middlebrooks
+6 53 203 19 39 13 0 9 25 79 9 60 0 1 2
+Jonny Gomes
+7 83 217 36 52 14 0 10 33 96 31 62 0 4 4
+Jacoby Ellsbury
+8 107 457 71 137 24 8 7 41 198 40 68 40 5 2
+Shane Victorino
+9 83 324 53 93 17 2 7 34 135 19 40 14 5 2
+John Lackey
+1 20 1 0 0 0 0 0 0 0 0 0 0 0 0
+Washington Nationals
+Kurt Suzuki
+2 72 238 17 52 11 1 3 21 74 17 30 2 3 3
+Adam LaRoche
+3 107 375 47 88 14 3 16 49 156 43 100 3 2 3
+Anthony Rendon
+4 60 226 24 59 15 0 5 18 89 16 45 1 1 2
+Ian Desmond
+5 112 418 51 113 28 2 16 54 193 34 104 15 3 4
+Ryan Zimmerman
+6 100 375 47 101 19 2 12 54 160 40 88 5 2 3
+Bryce Harper
+7 76 269 47 73 12 3 17 38 142 40 59 6 2 3
+Denard Span
+8 107 423 47 110 22 7 2 30 152 31 56 10 1 0
+Jayson Werth
+9 83 290 51 92 10 0 16 45 150 34 66 5 3 3
+Gio Gonzalez
+1 23 37 2 5 1 0 1 1 9 1 11 0 1 0
+Chicago White Sox
+Tyler Flowers
+2 77 240 23 48 12 0 9 24 87 13 85 0 4 1
+Adam Dunn
+3 106 374 47 85 11 0 26 69 174 57 125 1 3 3
+Gordon Beckham
+4 59 210 24 65 14 1 3 16 90 12 31 5 2 3
+Alexei Ramirez
+5 112 455 47 130 29 0 1 29 162 15 51 24 3 3
+Conor Gillaspie
+6 97 290 30 69 10 1 9 26 108 25 60 0 0 5
+Dayan Viciedo
+7 88 311 26 77 15 3 9 32 125 18 66 0 3 4
+Alejandro De
+8 29 482 435 62 120 23 3 13 103 5 36 48 5 4
+Alex Rios
+9 109 430 57 119 22 2 12 55 181 32 78 26 1 1
+Jake Peavy
+1 13 6 0 0 0 0 0 0 0 0 0 0 0 0
+Los Angeles Dodgers
+A.J. Ellis
+2 78 277 28 72 13 1 6 38 105 33 54 0 3 3
+Adrian Gonzalez
+3 111 420 52 123 22 0 15 69 190 36 63 0 1 8
+Mark Ellis
+4 85 295 29 79 7 1 5 34 103 16 48 3 6 5
+Hanley Ramirez
+5 54 191 37 69 17 2 11 37 123 16 34 7 1 1
+Juan Uribe
+6 90 247 29 62 12 1 6 31 94 23 53 3 2 3
+Carl Crawford
+7 76 285 44 84 18 2 5 19 121 19 42 11 3 1
+Matt Kemp
+8 62 228 30 60 12 0 5 27 87 18 69 9 2 3
+Andre Ethier
+9 110 385 39 104 25 2 7 41 154 48 68 4 4 3
+Clayton Kershaw
+1 26 53 4 7 2 0 1 4 12 4 16 0 1 0
+Texas Rangers
+A.J. Pierzynski
+2 90 337 33 92 14 1 12 44 144 8 50 1 6 3
+Mitch Moreland
+3 100 335 41 83 19 1 16 45 152 27 79 0 3 5
+Ian Kinsler
+4 88 349 50 94 19 1 10 48 145 34 37 7 7 6
+Elvis Andrus
+5 112 444 65 116 13 4 0 36 137 40 70 30 3 3
+Adrian Beltre
+6 113 454 65 145 23 0 25 70 243 29 50 0 3 0
+David Murphy
+7 109 366 39 82 20 1 12 36 140 30 47 1 1 1
+Leonys Martin
+8 101 301 47 84 12 5 6 24 124 18 67 26 4 3
+Nelson Cruz
+9 108 409 49 110 18 0 27 76 209 35 108 5 4 4
+Derek Holland
+1 23 5 1 0 0 0 0 0 0 2 3 0 0 0
+Cincinnati Reds
+Devin Mesoraco
+2 72 230 22 58 11 0 8 33 93 21 46 0 0 4
+Joey Votto
+3 114 417 77 135 23 2 17 52 213 85 97 4 3 4
+Brandon Phillips
+4 105 418 54 109 20 0 13 84 168 28 65 2 7 8
+Zack Cozart
+5 104 399 56 97 22 2 9 38 150 19 73 0 2 8
+Todd Frazier
+6 105 365 40 85 21 2 10 49 140 41 95 5 11 3
+Xavier Paul
+7 80 184 21 43 11 0 6 28 72 25 48 0 1 0
+Shin-Soo Choo
+8 109 406 76 115 26 1 15 35 188 73 98 12 22 1
+Jay Bruce
+9 113 449 66 123 31 1 24 78 228 34 137 3 2 5
+Homer Bailey
+1 23 40 2 6 1 0 0 0 7 1 11 0 0 0
+Tampa Bay Rays
+Jose Molina
+2 72 199 23 49 8 0 2 13 63 16 42 2 2 3
+James Loney
+3 109 374 42 115 23 0 10 51 168 30 53 3 0 4
+Ben Zobrist
+4 108 415 55 115 27 2 7 53 167 52 69 9 6 5
+Yunel Escobar
+5 105 358 43 92 18 0 8 44 134 34 49 3 3 4
+Evan Longoria
+6 110 420 66 112 25 2 22 62 207 50 116 1 1 5
+Kelly Johnson
+7 88 289 36 74 10 2 16 49 136 27 77 7 3 3
+Desmond Jennings
+8 104 415 69 107 24 5 11 40 174 42 93 17 2 4
+Matthew Joyce
+9 99 305 49 75 15 0 14 34 132 41 67 7 2 2
+David Price
+1 16 3 0 0 0 0 0 0 0 0 0 0 0 0
+Philadelphia Phillies
+Carlos Ruiz
+2 54 175 17 46 6 0 2 13 58 8 24 1 5 2
+Ryan Howard
+3 80 286 34 76 20 2 11 43 133 23 95 0 2 6
+Chase Utley
+4 85 314 51 88 18 5 15 44 161 28 56 7 3 3
+Jimmy Rollins
+5 113 431 44 110 21 2 5 32 150 36 66 15 1 3
+Michael Young
+6 106 391 42 108 20 3 8 36 158 39 66 1 1 1
+Domonic Brown
+7 102 385 53 104 17 4 25 74 204 26 78 8 1 3
+Ben Revere
+8 88 315 37 96 9 3 0 17 111 16 36 22 0 0
+Delmon Young
+9 80 272 22 71 13 0 8 31 108 14 69 0 3 2
+Cliff Lee
+1 24 40 3 7 1 0 0 1 8 1 17 0 0 0
+Detroit Tigers
+Alex Avila
+2 72 248 27 49 9 0 9 36 85 32 82 0 1 2
+Prince Fielder
+3 113 438 58 114 26 0 17 80 191 59 89 1 6 3
+Omar Infante
+4 76 291 38 90 18 2 6 27 130 15 31 4 0 3
+Jhonny Peralta
+5 104 397 50 121 29 0 11 54 183 35 98 3 1 2
+Miguel Cabrera
+6 105 398 81 143 21 1 33 105 265 67 71 3 4 2
+Andy Dirks
+7 93 318 40 79 10 1 7 26 112 30 64 7 1 1
+Austin Jackson
+8 82 353 68 93 18 3 8 27 141 36 86 6 1 1
+Torii Hunter
+9 100 426 68 132 27 3 12 56 201 18 79 2 6 6
+Anibal Sanchez
+1 19 3 0 0 0 0 0 0 0 0 3 0 0 0
+Arizona Diamonbacks
+Miguel Montero
+2 92 325 33 74 11 0 9 34 112 41 83 0 4 6
+Paul Goldschmidt
+3 112 418 73 125 25 0 26 90 228 63 102 11 2 4
+Aaron Hill
+4 45 165 24 47 16 0 5 22 78 13 27 1 2 1
+Didi Gregorius
+5 77 269 37 71 13 2 5 19 103 24 48 0 4 1
+Martin Prado
+6 109 423 48 116 24 1 10 48 172 34 39 3 1 4
+Jason Kubel
+7 74 221 19 50 8 1 5 28 75 24 70 0 0 2
+A.J. Pollock
+8 95 313 44 78 24 3 6 29 126 18 63 8 1 1
+Gerardo Parra
+9 109 422 57 113 27 2 7 28 165 38 75 7 3 3
+Ian Kennedy
+1 22 37 0 5 2 0 0 1 7 2 19 0 0 0
+Seattle Mariners
+Kelly Shoppach
+2 35 107 11 21 7 0 3 9 37 12 45 0 3 1
+Justin Smoak
+3 85 297 38 81 16 0 11 28 130 44 77 0 2 0
+Nick Franklin
+4 59 227 24 56 13 1 10 33 101 23 64 5 0 1
+Brendan Ryan
+5 79 240 22 45 8 0 3 17 62 20 55 4 1 1
+Kyle Seager
+6 112 439 64 129 27 2 17 52 211 44 78 5 4 4
+Raul Ibanez
+7 89 342 40 86 14 2 24 58 176 25 93 0 0 0
+Michael Saunders
+8 89 290 46 67 14 2 10 38 115 40 88 11 1 6
+Mike Morse
+9 64 240 29 58 12 0 12 26 106 18 66 0 3 1
+Felix Hernandez
+1 24 5 1 0 0 0 0 0 0 1 3 0 0 0
+Milwaukee Brewers
+Jonathan Lucroy
+2 101 353 35 98 18 4 16 60 172 25 42 3 4 5
+Juan Francisco
+3 52 157 20 38 6 1 10 24 76 18 57 0 2 2
+Rickie Weeks
+4 104 350 40 73 20 1 10 24 125 40 105 7 9 0
+Jean Segura
+5 111 443 61 139 16 8 12 43 207 20 62 32 6 2
+Aramis Ramirez
+6 54 181 21 49 11 0 5 26 75 23 38 0 3 2
+Ryan Braun
+7 61 225 30 67 14 2 9 38 112 27 56 4 0 1
+Carlos Gomez
+8 108 399 60 115 23 9 18 54 210 26 110 29 7 5
+Norichika Aoki
+9 109 432 59 121 15 1 6 25 156 33 26 16 8 1
+Kyle Lohse
+1 24 42 2 7 0 0 0 2 7 1 22 0 0 0
+Toronto Blue Jays
+J.P. Arencibia
+2 99 355 37 75 14 0 17 45 140 14 111 0 3 1
+Edwin Encarnacion
+3 111 421 71 119 22 1 30 89 233 61 51 6 3 3
+Emilio Bonifacio
+4 90 249 31 54 16 1 3 19 81 12 59 11 2 2
+Munenori Kawasaki
+5 70 178 20 38 4 4 1 20 53 26 28 7 3 3
+Brett Lawrie
+6 59 217 23 52 8 3 9 26 93 18 47 3 3 3
+Melky Cabrera
+7 88 344 39 96 15 2 3 30 124 23 47 2 0 3
+Colby Rasmus
+8 109 389 51 107 26 1 17 57 186 33 126 0 3 1
+Jose Bautista
+9 107 411 76 107 22 0 25 68 204 63 79 7 2 4
+R.A. Dickey
+1 24 6 2 2 1 0 0 1 3 0 0 0 0 0
+New York Mets
+John Buck
+2 93 340 37 74 11 0 14 57 127 24 94 2 8 2
+Ike Davis
+3 83 263 27 52 11 0 6 25 81 42 87 3 1 1
+Daniel Murphy
+4 112 461 64 128 26 3 9 53 187 22 65 13 2 3
+Omar Quintanilla
+5 60 210 23 48 6 2 2 15 64 30 43 1 0 2
+David Wright
+6 105 408 60 126 23 6 16 54 209 52 77 17 4 1
+Lucas Duda
+7 68 226 29 53 13 0 11 23 99 38 68 0 4 1
+Juan Lagares
+8 73 214 20 57 15 4 2 23 86 9 53 4 2 1
+Marlon Byrd
+9 100 359 53 99 20 4 17 60 178 24 108 2 5 6
+Matt Harvey
+1 24 54 2 5 2 0 0 2 7 0 24 0 0 0
+Minnesota Twins
+Joe Mauer
+2 101 398 53 127 32 0 8 38 183 55 81 0 0 2
+Justin Morneau
+3 105 409 47 109 27 0 11 59 169 31 78 0 6 5
+Brian Dozier
+4 97 356 48 86 22 4 10 44 146 32 73 9 4 3
+Pedro Florimon
+5 89 276 31 63 12 0 7 35 96 21 74 8 1 3
+Trevor Plouffe
+6 81 295 30 69 12 1 10 38 113 22 68 1 5 3
+Josh Willingham
+7 70 246 32 55 13 0 10 37 98 39 77 1 12 1
+Aaron Hicks
+8 81 281 37 54 11 3 8 27 95 24 84 9 2 2
+Chris Parmelee
+9 83 242 19 54 12 0 8 20 90 27 66 1 2 3
+Scott Diamond
+1 20 7 0 1 0 0 0 0 1 0 3 0 0 0
+Colorado Rockies
+Wilin Rosario
+2 93 337 44 92 16 1 15 52 155 15 87 4 1 1
+Todd Helton
+3 85 256 21 65 10 1 7 36 98 28 53 0 0 4
+DJ LeMahieu
+4 72 253 21 69 14 2 1 15 90 14 45 12 1 1
+Troy Tulowitzki
+5 84 298 51 93 18 0 20 62 171 31 57 1 4 4
+Nolan Arenado
+6 91 336 29 85 17 2 9 36 133 17 45 1 1 1
+Carlos Gonzalez
+7 103 391 72 118 23 6 26 70 231 41 118 21 1 3
+Dexter Fowler
+8 93 339 59 88 15 3 12 31 145 51 83 16 6 1
+Michael Cuddyer
+9 92 346 54 113 22 2 17 63 190 37 69 7 2 2
+Jorge DeLaRosa
+1 23 38 2 2 0 0 0 0 2 2 16 0 0 0
+Houston Astros
+Jason Castro
+2 99 367 47 98 30 0 13 42 167 37 107 2 2 3
+Carlos Pena
+3 85 277 38 58 13 1 8 25 97 43 89 1 4 0
+Jose Altuve
+4 104 423 43 118 16 2 4 37 150 25 62 29 2 7
+Marwin Gonzalez
+5 54 174 21 40 7 0 4 14 59 5 33 5 0 1
+Matt Dominguez
+6 107 375 38 87 17 0 14 55 146 15 63 0 3 6
+J.D. Martinez
+7 78 273 24 70 16 0 7 36 107 10 72 2 0 3
+Brandon Barnes
+8 92 271 32 65 12 1 5 24 94 16 78 9 6 1
+Jimmy Paredes
+9 38 105 7 19 4 0 1 8 26 6 39 4 1 1
+Lucas Harrell
+1 26 4 0 1 0 0 0 0 1 2 2 0 0 0
+Chicago Cubs
+Welington Castillo
+2 85 288 28 79 18 0 3 19 106 24 71 2 8 0
+Anthony Rizzo
+3 113 427 55 102 32 2 18 63 192 54 90 5 5 1
+Darwin Barney
+4 98 356 35 75 19 1 6 31 114 21 46 3 3 4
+Starlin Castro
+5 113 473 48 116 25 2 7 31 166 19 92 8 5 0
+Luis Valbuena
+6 89 285 29 64 13 1 9 31 106 43 54 1 3 2
+Alfonso Soriano
+7 93 362 47 92 24 1 17 51 169 15 89 10 3 3
+David DeJesus
+8 75 253 36 67 19 3 6 27 110 22 48 3 2 0
+Nate Schierholtz
+9 96 315 43 86 24 3 15 46 161 23 60 5 5 2
+Jeff Samardzija
+1 24 42 4 4 1 0 1 2 8 1 22 0 0 0
+New York Yankees
+Chris Stewart
+2 77 210 19 48 4 0 3 16 61 21 34 4 2 3
+Lyle Overbay
+3 103 346 34 85 21 1 12 47 144 25 85 0 0 2
+Robinson Cano
+4 113 421 58 121 20 0 22 71 207 55 66 6 4 5
+Eduardo Nunez
+5 52 164 19 38 9 2 1 12 54 13 31 5 3 4
+Jayson Nix
+6 79 250 25 59 9 1 2 21 76 21 73 11 3 3
+Vernon Wells
+7 101 348 36 84 13 0 10 39 127 23 59 5 0 4
+Brett Gardner
+8 111 418 58 113 25 5 7 36 169 40 97 19 4 2
+Ichiro Suzuki
+9 107 378 41 105 12 3 6 27 141 19 40 16 1 1
+Hiroki Kuroda
+1 23 6 0 0 0 0 0 0 0 0 3 0 0 0
+Atlanta Braves
+Brian McCann
+2 70 244 29 67 10 0 16 44 125 29 47 0 3 2
+Freddie Freeman
+3 101 386 62 120 20 2 13 76 183 45 88 1 5 1
+Dan Uggla
+4 108 378 56 72 10 3 21 52 151 59 141 1 6 2
+Andrelton Simmons
+5 110 453 60 111 16 3 11 40 166 26 38 5 2 4
+Chris Johnson
+6 98 351 42 119 24 0 7 42 164 22 78 0 1 1
+Justin Upton
+7 107 408 73 111 20 2 21 60 198 57 117 7 3 4
+B.J. Upton
+8 89 298 25 59 12 0 8 20 95 35 109 10 2 4
+Jason Heyward
+9 84 308 52 73 15 1 10 32 120 41 60 2 7 0
+Tim Hudson
+1 21 38 2 6 1 0 1 3 10 4 14 0 0 0
+Cleveland Indians
+Carlos Santana
+2 107 376 48 100 29 1 12 49 167 59 80 2 2 3
+Nick Swisher
+3 99 368 49 89 20 1 11 35 144 52 94 0 4 2
+Jason Kipnis
+4 103 394 59 116 26 3 15 68 193 51 101 21 2 8
+Asdrubal Cabrera
+5 90 350 49 85 26 2 8 43 139 23 85 7 5 3
+Lonnie Chisenhall
+6 63 209 20 47 12 0 6 26 77 10 43 1 2 0
+Michael Brantley
+7 110 400 55 113 19 2 7 53 157 31 50 12 4 6
+Michael Bourn
+8 86 351 51 98 17 1 4 34 129 26 82 17 2 1
+Drew Stubbs
+9 109 327 44 79 16 2 7 37 120 27 106 13 2 2
+Scott Kazmir
+1 20 4 0 1 0 0 0 0 1 0 1 0 0 0
+San Diego Padres
+Nick Hundley
+2 77 249 26 58 14 0 8 27 96 18 66 0 4 2
+Yonder Alonso
+3 75 266 27 79 9 0 6 40 106 23 40 6 2 5
+Jedd Gyorko
+4 77 297 39 73 17 0 10 31 120 21 74 1 2 2
+Everth Cabrera
+5 95 381 54 108 15 5 4 31 145 41 69 37 2 1
+Chase Headley
+6 100 373 44 90 24 2 8 35 142 47 104 6 8 2
+Carlos Quentin
+7 82 276 42 76 21 0 13 45 136 31 55 0 9 4
+Alexi Amarista
+8 102 248 30 66 11 3 5 25 98 14 39 0 0 0
+Will Venable
+9 106 299 37 75 13 5 13 35 137 20 71 13 1 0
+Eric Stults
+1 27 45 1 7 1 0 1 3 11 0 19 0 0 0
+Los Angeles Angels
+Chris Iannetta
+2 85 237 27 51 12 0 6 30 81 53 73 0 1 4
+Mark Trumbo
+3 113 437 60 105 23 0 25 70 203 42 125 2 0 3
+Howie Kendrick
+4 108 419 48 126 16 4 11 47 183 23 77 6 4 3
+Erick Aybar
+5 91 352 44 100 18 3 4 39 136 15 35 8 3 4
+Alberto Callaspo
+6 86 294 32 74 13 0 5 36 102 34 22 0 0 5
+J.B. Shuck
+7 87 269 35 78 14 3 1 26 101 19 29 4 1 4
+Mike Trout
+8 112 436 80 145 32 8 20 70 253 67 86 24 7 6
+Josh Hamilton
+9 106 406 53 88 21 2 16 51 161 29 113 3 4 8
+C.J. Wilson
+1 23 7 1 1 0 0 0 0 1 0 4 0 0 0
+St. Louis Cardinals
+Yadier Molina
+2 98 361 46 119 30 0 8 54 173 24 36 3 3 2
+Allen Craig
+3 110 422 62 134 25 2 11 86 196 27 82 2 8 5
+Matt Carpenter
+4 109 438 83 134 34 4 9 56 203 47 65 1 7 4
+Pete Kozma
+5 106 340 34 79 18 0 1 32 100 23 76 2 0 3
+David Freese
+6 95 331 40 91 20 1 6 41 131 36 74 1 5 0
+Matt Holliday
+7 97 363 74 102 19 1 13 54 162 43 61 5 4 2
+Jon Jay
+8 112 389 54 102 17 2 5 46 138 38 76 3 9 3
+Carlos Beltran
+9 101 396 60 120 19 3 20 61 205 21 71 2 1 3
+Adam Wainwright
+1 25 50 2 7 1 0 0 2 8 0 18 0 0 0
