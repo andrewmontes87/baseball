@@ -23,7 +23,9 @@ int main (int argc, char * argv[])
     
     // open .txt file, exit if error
     // stats from the week of 8/5-9 via baseball-reference.com \\
-    if ((fp = fopen("teams.txt", "r")) == NULL)
+    
+    
+	if ((fp = fopen("teams.txt", "r")) == NULL)
     {
         fprintf(stderr,"Can't open \"teams.txt\" file.\n");
         exit(EXIT_FAILURE);
